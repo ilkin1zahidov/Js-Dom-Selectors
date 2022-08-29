@@ -1,0 +1,74 @@
+/* .test{
+    background-color: red;
+}
+
+.salam{
+    background-color: blue;
+} */
+
+/* .active-head{
+    background-color: green;
+    color:white;
+    border:1px solid red;
+    padding: 10px;
+}
+
+.inactive-head{
+    background-color: red;
+    color:white;
+    border:1px solid red;
+    padding: 10px;
+}
+
+.icon{
+    float:right;
+    cursor:pointer;
+    color:white;
+} */
+
+.sum{
+    width: 200px;
+}
+
+.decrease{
+    width: 200px;
+}
+
+.multiply{
+    width: 200px;
+}
+
+.divide{
+    width: 200px;
+}
+
+.add-btn{
+
+text-align: center;
+
+
+
+}
+
+.add-btn button{
+    margin: 20px;
+}
+
+
+
+.text-area{
+
+    text-align: center;
+    width: 500px;
+    margin-left: 330px;
+    
+    }
+    
+
+    button{
+        height: 40px;
+        font-size: 12px;
+        background-color: whitesmoke;
+        color:black;
+        border-style: hidden;
+    }
